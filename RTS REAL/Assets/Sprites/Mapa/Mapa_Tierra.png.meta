@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: f86a1d000bd52504a80bf153583c3cc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2629354710203910923
+    second: Mapa_Tierra_0
+  - first:
+      213: 7982899274368583301
+    second: Mapa_Tierra_1
+  - first:
+      213: -572891384282572926
+    second: Mapa_Tierra_2
+  - first:
+      213: 2174270511225334078
+    second: Mapa_Tierra_3
+  - first:
+      213: 370653579621426392
+    second: Mapa_Tierra_4
+  - first:
+      213: 4706464879510145458
+    second: Mapa_Tierra_5
+  - first:
+      213: -5351312690278293938
+    second: Mapa_Tierra_6
+  - first:
+      213: -7037625485998758480
+    second: Mapa_Tierra_7
+  - first:
+      213: -1178007017834863127
+    second: Mapa_Tierra_8
+  - first:
+      213: 3176459305289200468
+    second: Mapa_Tierra_9
+  - first:
+      213: -2482299487706414889
+    second: Mapa_Tierra_10
+  - first:
+      213: 6828017700346408496
+    second: Mapa_Tierra_11
+  - first:
+      213: 2406399670862149973
+    second: Mapa_Tierra_12
+  - first:
+      213: -7657233188024363497
+    second: Mapa_Tierra_13
+  - first:
+      213: 8740442362055129490
+    second: Mapa_Tierra_14
+  - first:
+      213: 6840189848981799368
+    second: Mapa_Tierra_15
+  - first:
+      213: -3993217193484230053
+    second: Mapa_Tierra_16
+  - first:
+      213: 394904659728364189
+    second: Mapa_Tierra_17
+  - first:
+      213: -6657042262407879720
+    second: Mapa_Tierra_18
+  - first:
+      213: 4067691001119798638
+    second: Mapa_Tierra_19
+  - first:
+      213: 7333691202066162874
+    second: Mapa_Tierra_20
+  - first:
+      213: 1188928222510703322
+    second: Mapa_Tierra_21
+  - first:
+      213: -1429445509962442912
+    second: Mapa_Tierra_22
+  - first:
+      213: -2961932681242716786
+    second: Mapa_Tierra_23
+  - first:
+      213: -2592067383226436115
+    second: Mapa_Tierra_24
+  - first:
+      213: -6447289832619677439
+    second: Mapa_Tierra_25
+  - first:
+      213: 598036904844898423
+    second: Mapa_Tierra_26
+  - first:
+      213: -4567823174013273903
+    second: Mapa_Tierra_27
+  - first:
+      213: 539682796579115967
+    second: Mapa_Tierra_28
+  - first:
+      213: 6488441796449417922
+    second: Mapa_Tierra_29
+  - first:
+      213: 7416533554337702866
+    second: Mapa_Tierra_30
+  - first:
+      213: -4293279576891184730
+    second: Mapa_Tierra_31
+  - first:
+      213: 8519925543776564017
+    second: Mapa_Tierra_32
+  - first:
+      213: -3220301928421357584
+    second: Mapa_Tierra_33
+  - first:
+      213: 6189699724557712268
+    second: Mapa_Tierra_34
+  - first:
+      213: 8600773706801296588
+    second: Mapa_Tierra_35
+  - first:
+      213: 6958612784292906264
+    second: Mapa_Tierra_36
+  - first:
+      213: -4770591305495228601
+    second: Mapa_Tierra_37
+  - first:
+      213: 5285257362635494610
+    second: Mapa_Tierra_38
+  - first:
+      213: -5581831871676417145
+    second: Mapa_Tierra_39
+  - first:
+      213: 8208669642835388253
+    second: Mapa_Tierra_40
+  - first:
+      213: 3192843986550683684
+    second: Mapa_Tierra_41
+  - first:
+      213: -5593763069979236711
+    second: Mapa_Tierra_42
+  - first:
+      213: 5423099986321980425
+    second: Mapa_Tierra_43
+  - first:
+      213: 5169523462428708696
+    second: Mapa_Tierra_44
+  - first:
+      213: -4647393800948734718
+    second: Mapa_Tierra_45
+  - first:
+      213: 7837693884512210050
+    second: Mapa_Tierra_46
+  - first:
+      213: -5555859352580557870
+    second: Mapa_Tierra_47
+  - first:
+      213: 7903276553212332550
+    second: Mapa_Tierra_48
+  - first:
+      213: 4155266444718521187
+    second: Mapa_Tierra_49
+  - first:
+      213: -5446303994664274052
+    second: Mapa_Tierra_50
+  - first:
+      213: 5556944177197749423
+    second: Mapa_Tierra_51
+  - first:
+      213: -6864420500169577478
+    second: Mapa_Tierra_52
+  - first:
+      213: 1220808918473490872
+    second: Mapa_Tierra_53
+  - first:
+      213: 2683413633742690913
+    second: Mapa_Tierra_54
+  - first:
+      213: -1437234035457241252
+    second: Mapa_Tierra_55
+  - first:
+      213: -1791717200300210350
+    second: Mapa_Tierra_56
+  - first:
+      213: 9031750546581975405
+    second: Mapa_Tierra_57
+  - first:
+      213: 5830483240243003429
+    second: Mapa_Tierra_58
+  - first:
+      213: 297364766522619530
+    second: Mapa_Tierra_59
+  - first:
+      213: -278372325856398242
+    second: Mapa_Tierra_60
+  - first:
+      213: 9029838646124378243
+    second: Mapa_Tierra_61
+  - first:
+      213: -1679686268329457912
+    second: Mapa_Tierra_62
+  - first:
+      213: 7641335596983957080
+    second: Mapa_Tierra_63
+  - first:
+      213: 4708823314889604522
+    second: Mapa_Tierra_64
+  - first:
+      213: 5359779904031075211
+    second: Mapa_Tierra_65
+  - first:
+      213: -1964476960983352566
+    second: Mapa_Tierra_66
+  - first:
+      213: 6501768666899149370
+    second: Mapa_Tierra_67
+  - first:
+      213: -4864382547317116279
+    second: Mapa_Tierra_68
+  - first:
+      213: 2337623974644379857
+    second: Mapa_Tierra_69
+  - first:
+      213: 5417002471374359278
+    second: Mapa_Tierra_70
+  - first:
+      213: 846114959998513090
+    second: Mapa_Tierra_71
+  - first:
+      213: 8544001161197661249
+    second: Mapa_Tierra_72
+  - first:
+      213: -218731066731213171
+    second: Mapa_Tierra_73
+  - first:
+      213: 175158551770190305
+    second: Mapa_Tierra_74
+  - first:
+      213: -3002386376623925789
+    second: Mapa_Tierra_75
+  - first:
+      213: -2319413934880515375
+    second: Mapa_Tierra_76
+  - first:
+      213: 48714040528592063
+    second: Mapa_Tierra_77
+  - first:
+      213: 576185273714133475
+    second: Mapa_Tierra_78
+  - first:
+      213: 9170812086560234817
+    second: Mapa_Tierra_79
+  - first:
+      213: 5875974344289192332
+    second: Mapa_Tierra_80
+  - first:
+      213: -2929102654296768583
+    second: Mapa_Tierra_81
+  - first:
+      213: 1727426114523646607
+    second: Mapa_Tierra_82
+  - first:
+      213: -7832986155206214477
+    second: Mapa_Tierra_83
+  - first:
+      213: -178305616948040439
+    second: Mapa_Tierra_84
+  - first:
+      213: 5099419557957167959
+    second: Mapa_Tierra_85
+  - first:
+      213: 2757499099322118608
+    second: Mapa_Tierra_86
+  - first:
+      213: 5036279956924709163
+    second: Mapa_Tierra_87
+  - first:
+      213: 646519969126626698
+    second: Mapa_Tierra_88
+  - first:
+      213: -466960771601056761
+    second: Mapa_Tierra_89
+  - first:
+      213: -8551379704918839349
+    second: Mapa_Tierra_90
+  - first:
+      213: -6022960119256265843
+    second: Mapa_Tierra_91
+  - first:
+      213: 8193898825057157081
+    second: Mapa_Tierra_92
+  - first:
+      213: -7414479825167680484
+    second: Mapa_Tierra_93
+  - first:
+      213: 5642733766806662757
+    second: Mapa_Tierra_94
+  - first:
+      213: -4119919948599118854
+    second: Mapa_Tierra_95
+  - first:
+      213: 7923920330711936453
+    second: Mapa_Tierra_96
+  - first:
+      213: -5926827683709124737
+    second: Mapa_Tierra_97
+  - first:
+      213: -3125737233706341651
+    second: Mapa_Tierra_98
+  - first:
+      213: 6579327260949057205
+    second: Mapa_Tierra_99
+  - first:
+      213: 6309282262660630940
+    second: Mapa_Tierra_100
+  - first:
+      213: 7097847308918094075
+    second: Mapa_Tierra_101
+  - first:
+      213: 6970648379291998388
+    second: Mapa_Tierra_102
+  - first:
+      213: 4148620649137609989
+    second: Mapa_Tierra_103
+  - first:
+      213: -9042720727452257376
+    second: Mapa_Tierra_104
+  - first:
+      213: 7716535855615788798
+    second: Mapa_Tierra_105
+  - first:
+      213: 5783493381003202295
+    second: Mapa_Tierra_106
+  - first:
+      213: 3242483837059852251
+    second: Mapa_Tierra_107
+  - first:
+      213: -6747590678464584844
+    second: Mapa_Tierra_108
+  - first:
+      213: 6605805765489574760
+    second: Mapa_Tierra_109
+  - first:
+      213: 255894991061578926
+    second: Mapa_Tierra_110
+  - first:
+      213: 2600718822786563632
+    second: Mapa_Tierra_111
+  - first:
+      213: 3598865178521219049
+    second: Mapa_Tierra_112
+  - first:
+      213: 6147097543187705336
+    second: Mapa_Tierra_113
+  - first:
+      213: 4032278378260570967
+    second: Mapa_Tierra_114
+  - first:
+      213: 6966007752723538094
+    second: Mapa_Tierra_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mapa_Tierra_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4bbcd62d7a28bd0800000000000000
+      internalID: -2629354710203910923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58686764894f8ce60800000000000000
+      internalID: 7982899274368583301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28794f0425eac08f0800000000000000
+      internalID: -572891384282572926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39613b928f8c2e10800000000000000
+      internalID: 2174270511225334078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ef048773d42500800000000000000
+      internalID: 370653579621426392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cd0b3fd8b05140800000000000000
+      internalID: 4706464879510145458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1cede5715cb5b0800000000000000
+      internalID: -5351312690278293938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5eecc48e4555e90800000000000000
+      internalID: -7037625485998758480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5290fcbd0e6afe0800000000000000
+      internalID: -1178007017834863127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4533f3798ec051c20800000000000000
+      internalID: 3176459305289200468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0002984c91d8dd0800000000000000
+      internalID: -2482299487706414889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2a3d0cedf1ce50800000000000000
+      internalID: 6828017700346408496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559fa5140cf356120800000000000000
+      internalID: 2406399670862149973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d9793cfa0cb590800000000000000
+      internalID: -7657233188024363497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299721af40a4c4970800000000000000
+      internalID: 8740442362055129490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10bc04d6c3dee50800000000000000
+      internalID: 6840189848981799368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e3679e1e3598c0800000000000000
+      internalID: -3993217193484230053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92714b12bbfa7500800000000000000
+      internalID: 394904659728364189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36a66355f6d93a0800000000000000
+      internalID: -6657042262407879720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657cc9f967537830800000000000000
+      internalID: 4067691001119798638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4af8fea4186c560800000000000000
+      internalID: 7333691202066162874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2ef2e4bebef7010800000000000000
+      internalID: 1188928222510703322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06759e8d1e6992ce0800000000000000
+      internalID: -1429445509962442912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8558ed5be915e6d0800000000000000
+      internalID: -2961932681242716786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de579e4c270270cd0800000000000000
+      internalID: -2592067383226436115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10967b27e00a686a0800000000000000
+      internalID: -6447289832619677439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770badb7567ac4800800000000000000
+      internalID: 598036904844898423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8342c4605db90c0800000000000000
+      internalID: -4567823174013273903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3dc75e4a65d7700800000000000000
+      internalID: 539682796579115967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Tierra_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3a27cf639b0a50800000000000000
+      internalID: 6488441796449417922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
